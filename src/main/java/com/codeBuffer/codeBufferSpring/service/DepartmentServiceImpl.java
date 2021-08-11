@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 
 import java.util.List;
 import java.util.Objects;
+// testing
 
 @Service
 public class DepartmentServiceImpl implements DepartmentService {
@@ -62,3 +63,10 @@ public class DepartmentServiceImpl implements DepartmentService {
 
 }
 
+/*
+Generate a Personal Access Token. (Detailed guide on Creating a personal access token for the command line.)
+Copy the Personal Access Token.
+Re-attempt the command you were trying and use Personal Access Token in the place of your password.
+
+ */
+//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
